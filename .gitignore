@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.pt
+*.onnx
+# Download ppe_model.pt from HuggingFace: AmirT/ppe-detection-yolov8
+*.engine
+runs/
+dist/
+build/
+*.egg-info/
+.DS_Store
+*.log
